@@ -2,13 +2,18 @@
   "name": "dark-yellow-theme",
   "displayName": "Dark Yellow Theme",
   "description": "A dark theme with yellow",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "FriendlyExfire",
   "repository": {
     "type": "git",
     "url": "https://github.com/FraDepe/Dark-Yellow-Theme"
   },
-  "keywords": ["dark", "yellow", "gray", "friendlyexfire"],
+  "keywords": [
+    "dark",
+    "yellow",
+    "gray",
+    "friendlyexfire"
+  ],
   "engines": {
     "vscode": "^1.73.0"
   },
