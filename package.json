@@ -2,6 +2,7 @@
   "name": "dark-yellow-theme",
   "displayName": "Dark Yellow Theme",
   "description": "A dark theme with yellow",
+  "icon": "images/VSCThemeIcon.png",
   "version": "0.7.0",
   "publisher": "FriendlyExfire",
   "repository": {
