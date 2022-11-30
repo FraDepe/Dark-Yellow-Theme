@@ -1,6 +1,6 @@
 {
   "name": "Dark Yellow Theme",
-  "type": "dark",
+  "type": "light",
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "enumMember": {
@@ -1915,7 +1915,7 @@
     "editor.background": "#2c2c2c",
     "editor.foreground": "#ff7800",
     "editorLineNumber.foreground": "#cdb94dcf",
-    "editorCursor.foreground": "#000000",
+    "editorCursor.foreground": "#ffd019",
     "editorCursor.background": "#ffffff",
     "editor.selectionBackground": "#5c5233",
     "editor.inactiveSelectionBackground": "#4f4c3f",
